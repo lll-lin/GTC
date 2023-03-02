@@ -198,7 +198,7 @@ def main():
         for opt, value in opts:
             if opt == '-l':
                 logname = str(value)
-            elif opt == '-j':
+            elif opt == '-c':
                 clusters_num = int(value)
 
         print("--------------------------------------------------------------")
