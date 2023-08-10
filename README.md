@@ -50,7 +50,7 @@ Note:
 
 A reference for users **************************************************
 
-	If you have any quetions for this code, you can email:XXXX.
+	If you have any quetions for this code, you can email: leilei_lin@126.com .
 	We would also be happy to discuss the topic of tace clustering with you.
 
 
